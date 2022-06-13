@@ -37,3 +37,5 @@ alt + shift - d : yabai -m window --ratio rel:-0.1
 alt + shift - f : yabai -m window --ratio rel:0.1
 
 ctrl + shift + alt - r : brew services restart yabai
+
+alt + shift - c : $HOME/skhd/scripts/cap_window.sh
